@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eka Testi</string>
+    <string name="hello_world">Heippa Maailma!</string>
+    <string name="hello_world_land">Heippa Vaakatasoinen Maailma!</string>
+</resources>
